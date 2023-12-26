@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+.btn{
+    display: flex;
+    font-size: 30px;
+    margin-left: 36%;
+    color: green;
+    background-color: chartreuse;
+}
+.btn:hover{
+    color: aqua;
+}
+.inpEdit{
+    display: flex;
+    margin-left: 36%;
+}
+input, button{
+    border-radius: 7px;
+    display: flex;
+    margin-left: 36%;
+}
+.task-list{
+    color: red;
+}

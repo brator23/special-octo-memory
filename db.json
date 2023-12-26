@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "ferstname": "Имя",
+      "lastname": "Фамилия",
+      "photoNumber": "123456789",
+      "photo": "https://media.licdn.com/dms/image/D4E0BAQG-i2j7Q2WFIA/company-logo_200_200/0/1694593112031/img_logo?e=2147483647&v=beta&t=o1304VK0Zbh3CBA-8_LNYNZZCNrQjMIBS-nwKrAMzbY"
+    }
+  ]
+}
